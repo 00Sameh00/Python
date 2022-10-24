@@ -1,5 +1,0 @@
-Hello
-I am learning Python
-Come and join me
-We can enjoy it together
-You are always welcome
